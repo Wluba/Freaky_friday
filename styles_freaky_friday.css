@@ -1,0 +1,42 @@
+header {
+	font-size: 30px;
+	background-image: url(header_img.jpg);
+	background-size: cover;
+	padding: 20px;
+	color:#FFFFFF;
+	font-style: Georgia, "Times New Roman", serif;
+}
+
+p.header {
+	font-style: italic;
+}
+
+img {
+	width: 500px;
+	height: 340px;
+}
+
+.top_left {
+	float: left;	
+}
+
+.top_right {
+	float: right;
+}
+
+.down_left {
+	float: left;
+}
+
+.down_right{
+	float: right;
+}
+
+.klokke p {
+	text-align: center;
+}
+
+.klokke {
+	padding-top: 100px;
+	padding-bottom: 1000px;
+}
